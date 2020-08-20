@@ -1,5 +1,6 @@
 # Machine Learning Deployment using AWS SageMaker
 
+This project is the final part of UDACITY deep learning nanodegree
 Code and associated files 
 
 This repository contains code and associated files for deploying ML models using AWS SageMaker. This repository consists of a number of tutorial notebooks for various coding exercises, mini-projects, and project files that will be used to supplement the lessons of the Nanodegree.
@@ -41,12 +42,12 @@ Click on the 'new' dropdown menu and select 'terminal'. By default, the working 
 
 ```bash
 cd SageMaker
-git clone https://github.com/udacity/sagemaker-deployment.git
+git clone https://github.com/hj1295/sagemaker-deployment.git
 exit
 ```
 
 After you have finished, close the terminal window.
-
+note: original repo here :https://github.com/udacity/sagemaker-deployment.git
 ### Open and run the notebook of your choice
 
 Now that the repository has been cloned into the notebook instance you may navigate to any of the notebooks that you wish to complete or execute and work with them. Any additional instructions are contained in their respective notebooks.
